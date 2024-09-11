@@ -25,7 +25,11 @@ Questions:
 
 9.Display all orders placed in the last 30 days.
 
-10.List all delivery partners who have completed more than 1 delivery
-Find the customers who have placed orders on exactly three different days.
-Find the delivery partner who has worked with the most different customers.
-Identify customers who have the same city and have placed orders at the same restaurants, but on different dates.
+10.List all delivery partners who have completed more than 1 delivery.
+
+11.Find the customers who have placed orders on exactly three different days.
+
+12.Find the delivery partner who has worked with the most different customers.
+
+13.Identify customers who have the same city and have placed orders at the same restaurants, but on different dates.
+
